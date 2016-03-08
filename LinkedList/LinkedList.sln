@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{71731AA0-921D-4DBD-B1D0-A0141FD227D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.LinkedList", "LinkedList\DataStructures.LinkedList.csproj", "{71731AA0-921D-4DBD-B1D0-A0141FD227D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.LinkedListTest", "LinkedListTest\DataStructures.LinkedListTest.csproj", "{1E77DDF8-1979-493D-A491-2A143E087338}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{71731AA0-921D-4DBD-B1D0-A0141FD227D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71731AA0-921D-4DBD-B1D0-A0141FD227D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71731AA0-921D-4DBD-B1D0-A0141FD227D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E77DDF8-1979-493D-A491-2A143E087338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E77DDF8-1979-493D-A491-2A143E087338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E77DDF8-1979-493D-A491-2A143E087338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E77DDF8-1979-493D-A491-2A143E087338}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
